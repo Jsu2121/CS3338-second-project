@@ -1,0 +1,45 @@
+commit cefe997319a55067184e6c925c114881017685f6
+Merge: fa517b0 3cdb8e8
+Author: jsu2121 <Jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:41:47 2025 -0700
+
+    resolved merge conflict
+
+commit 3cdb8e8f9e0d511ec02c53d6b60d308ceb28ec31
+Author: jsu2121 <Jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:39:48 2025 -0700
+
+    new div with favorite game
+
+commit fa517b0ea34c8f4859bf8b0e3fbcd3c64014d2f0
+Author: jsu2121 <Jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:36:53 2025 -0700
+
+    new div with favorite food
+
+commit 50d1bda3894d695c21f3ebc545cf5ac9e07e3911
+Merge: 1d2bfc0 3d7920b
+Author: Jsu21 <jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:33:22 2025 -0700
+
+    Merge pull request #2 from Jsu2121/info-fill
+    
+    filled in the blank
+
+commit 3d7920bc39ba0c15ace954dea7da0d271332c86a
+Author: jsu2121 <Jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:28:42 2025 -0700
+
+    adding a README.md
+
+commit 739082029a6f27336ec0fbf4de38ba74928032d0
+Author: jsu2121 <Jonathansu19377@gmail.com>
+Date:   Sun Sep 14 16:25:08 2025 -0700
+
+    filled in the blank
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
